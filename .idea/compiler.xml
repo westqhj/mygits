@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mymaven" target="1.5" />
+      <module name="springcloudadmin" target="11" />
+      <module name="springcloudeureka" target="11" />
+      <module name="springcloudorder" target="11" />
+      <module name="springcloudpay" target="11" />
+      <module name="springcloudstock1" target="11" />
+      <module name="springcloudstock2" target="11" />
+      <module name="springcloudzuul" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
